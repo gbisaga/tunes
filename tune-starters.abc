@@ -34,6 +34,15 @@ K: A
 |:"A"E2c2 c4| cBAc BAFE| "D"F2d2 d4| fgaf ecBA|
 |:"A"ecea "D"fdfa| "E"gefg "A"a2eg| "A"agae "D"fgaf| "A"ecBA "E"B2cd|
 
+X:1
+T:Booth Shot Lincoln - A (or G)
+L:1/8
+M:4/4
+R:Reel
+K:A
+|AF|:E2C4E2|FA2F A2 EF|A2c2B2A2|F4F2AF|
+|| ce2ce4| fa2fa2af| e2c2BcBA| F4A2B2|
+
 X: 1
 T:Cherokee Shuffle - A
 S:via PR
@@ -63,7 +72,7 @@ K: Ador
 |:"Am"edeg a2a2|abag e2>f2|"G"gfga gfef|gagf edcB|
 
 X:3010
-T:Colored Aristocracy
+T:Colored Aristocracy - G
 T:Southern Aristocracy
 R:Reel
 C:Trad.
@@ -74,9 +83,7 @@ L:1/8
 Q:1/4=120
 K:G
 (3DEF|:"G"G2GG E2D2|G2GG G2GA|"Em/maj"B2d2 BAG2|E2EE E2z2|"C"e2ef gfe2|
-"G"d2 ed2 BG2|1 "A7"B2 B^c2 BA2|"D7"d4 d2 (3DEF:|2 "D7"B2 Bd2 BA2|"G"G4 G2 (3def|
 |:"G"g2ff e2d2|"Em"e2ee e2e2-|"C"e2eg e2dB|"Em"B2BB B2z2|"C"edef gfe2|
-"G"d2e d2BG2|1 "A7"B2 B^c2 BA2|"D7"d4 d2(3def:|2 "D7"B2Bd2 BA2|"G"G4 G2z2|]
 
 X: 1
 T: Fisher's Hornpipe - D
@@ -159,7 +166,6 @@ K: Dmaj
 |"D"fedf edBA|Bd de d2de|f2 a2 aab2|"A" a8|
 |:"G" BABc d3A|BABc d3 A|BABd ed d2|"D"A6 A2|
 
-
 X:19
 T:June Apple - A
 M:4/4
@@ -174,6 +180,28 @@ L:1/8
 K:D
 "D"fAfA|f/g/f/e/ d/e/f/a/|"G"gBgB|g/a/g/f/ e/d/B/e/|
 |:"D"AA/B/ A/G/F/E/|D/F/A/d/ fd|A>B/2c/2 d>F|"A"[EA]>F [EA][EA]|
+
+X:586
+T:Little Billy Wilson - A
+B:Slow Jam for Old Time Music
+Z:Nigel Gatherer
+L:1/8
+M:4/4
+K:A
+(3efg |: a2 g2  a2 eg | fedf edcA  | B2 G2  E2 GE | ABcd   e2
+|: ABcd   efed  | cAcA B2 B2 | ABcd   efed  | cABG   A2  :|
+EF    |: A2 A2- AcBA  | F3 A F2 EF | A2 A2- ABcd  | e2 e2- efec |
+
+X:1
+T:Little Pine Siskin - D
+L:1/8
+M:4/4
+R:Reel
+K:D
+A,B,|: "D"D2DE FEDF|"A"E2EEE2DE| "D"FABc d2c2|"G"B2BBB2BB|
+BABc d2dd|"D"dBAF D2A,B,|1 D2EFE2D2| "G"B,2B,B,B,2A,B,:|2 D2EF"A"EDC2|"D"D2DD DEFA|
+|| "G"B4 d4|BAF2 "A"A4| "G"B2d2BAF2| "A"A6 A2| "G"B4d4 |BAF2 "Bm"B2>A2|"G"B2d2 BAF2|"A"A2AB AGFD|
+|| "Em"E4 E2>F2| EDB,2 "A"A,2>D2| "Em"E2EF ED B,2| "A"A,4 A,B,D2| "Em"E4 E2EE| EDEF "G"G2GE| "D"F2D2 "A"EDCE| "D" D6 :|
 
 X:191
 T:The Magpie - G
@@ -255,6 +283,18 @@ K:G
 D|:GG/2G/2GB|d3B|cege|d3B|cBAc|BAGB|
 ||:e2ee|egfe|d2B2|Bded|d2A2|Aded|d2B2|B2gf|
 
+X:628
+T: Sadie at the Back Door
+C: Jere Canote 
+N:(revised by C. Maher from Perpetual e-Motion CD)
+M: C|
+L: 1/8
+K: D
+|: "D"a2g2 f2<e2 |d3e d2fg | a2g2 fed2|"C"=c3d c2e2 |\
+"D"a2g2 fed2 |"C"=c4B4 | "C"=c2Bc BAFE| "D"D8 :|
+|: "D"F2FE D4 |FGFE D4 | "C"=c2B2 ABAF |"D"D3E D4 |\
+ "D"F2FE D4 |"C"=c4B4 |1 "C"=c2Bc BAFE| "D"D8:|2 "C" f3d BAFE|"D"D8 |]
+
 X: 1
 T: Sal's Got Mud Between Her Toes - D
 R: reel
@@ -263,9 +303,9 @@ L: 1/8
 Z: Contributed 2017-11-26 01:20:55 by Terry Terry_cowan@hotmail.com
 K: Dmaj
 A,B, ||\
-D2 D2 (3B,DB, A,B, | D2 D2 F3F |FEDF EDB,A, |DEDB, A,2 A,B,
-DF ||A2A2 FEDE | FAAB A2DF | F2A2 BAFD | FED2 E3E |
-|: AB |\
+"D"D2 D2 (3B,DB, A,B, | D2 D2 F3F |FEDF EDB,A, |DEDB, A,2 A,B,
+DF ||"D"F2F2 FEDE | FAAB A2DF | F2A2 BAFD | FED2 E3E |
+|: "D"AB |\
 d2 d2 (3BdB AB | d2 d2 f4 | f3 a fede | f2 f2 e3 e |
 
 X: 1
@@ -314,6 +354,17 @@ K: D
 |:"D"f2 fg fe dB | A2 FA A2 FA | "G"B2 GB B2 GB | "D"AB AG FA de |
 |: ag |\
 "D"fd fa fd fa | "Em"ag gf g2 gf | "A7"ed cB AB ce | "D"ba a^g a2 a=g |
+
+X: 1
+T: Tippin' Back the Corn - A
+R: reel
+M: C|
+L: 1/8
+K: A
+(3efg |"A"a2g2 f2e2 | [cE]3(E [cE]2)Bc- | cBcd cBAG| "D"[FA,]3 (A,[FA,]2) (3ABc |
+d2c2 B2A2 | "E"[BE]3(E [EB]2)AB- | BABc BAFE |"A" [AA,]3 (A,[AA,]2) :|
+|: CB,|"A"A,2A,A, A,F3 | [A,E]3F [EA,]4| A2AA Af3 | [eA]3f [Ae]2 ef- |
+"D"fef=g fedc | "E"BcBA F2AB- | BABc BAFE | "A"[AA,]3 (A,[AA,]2) :|
 
 X: 53
 T:Turkey in the Straw - G
