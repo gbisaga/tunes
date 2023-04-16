@@ -97,6 +97,19 @@ K: D
 |: "A"ecAc egfe |"D"fdAd fagf |"A"ecAc efgf | "E7"edcB "A"A2A2 |
 
 X:1
+T:Five Miles from Town - D
+C:Clyde Davenport
+L:1/8
+M:4/4
+R:Reel
+K:D
+A,B, |:"D" D2<D2 D2>D2|E2F2 ED B,2| A,B, DE D2D2|1,3 "A"FDE2 "D"D2 A,B,:|
+|2,4 FDE2 D4|"Bm"FAB2 B2>(A2|BA) FF ED B,2|"D"A,B, D2D2D2|"A"FDE2 "D"D2A2 :|
+|:"D"AB d2 (ef2)(a|[M:6/4] fe)df edB2 A2F2|[M:4/4]AB d2 (ef2)a|[M:6/4]fdef d2.f2.f2 z2|
+[M:4/4]AB d2 (ef2)(a|[M:6/4] fe)df (edB2) A2F2|[M:4/4]"Bm"A2<B2 B2>(A2|BA) FF ED B,2|
+"D"A,B, D2D2D2|1 "A"FDE2 "D"D2A2 :|2 "A"FDE2 "D"D2A,B, :|
+
+X:1
 T:Forked Deer - D
 L:1/8
 M:C|
@@ -296,6 +309,16 @@ K: D
  "D"F2FE D4 |"C"=c4B4 |1 "C"=c2Bc BAFE| "D"D8:|2 "C" f3d BAFE|"D"D8 |]
 
 X: 1
+T: Sandy Boys - Amix
+R: reel
+M: 4/4
+L: 1/8
+Z: Contributed 2017-11-26 01:20:55 by Terry Terry_cowan@hotmail.com
+K: Amix
+|: a2g2e2g2|edc2A2eg|a2g2e2g2|a2>b2a2eg|a2g2e2g2|edc2A4|c4d2c2|A8 :|
+|: e4e4|d2c2A4|cBA2c2c2|d6cd|e4e4|d2c2A4|A2c2d2c2|A8:|
+
+X: 1
 T: Sal's Got Mud Between Her Toes - D
 R: reel
 M: 4/4
@@ -354,6 +377,14 @@ K: D
 |:"D"f2 fg fe dB | A2 FA A2 FA | "G"B2 GB B2 GB | "D"AB AG FA de |
 |: ag |\
 "D"fd fa fd fa | "Em"ag gf g2 gf | "A7"ed cB AB ce | "D"ba a^g a2 a=g |
+
+X: 1
+T: Three Thin Dimes - A
+R: reel
+M: C|
+L: 1/8
+K: A
+|: a2g2f2e2| a2g2f2e2|dcBA GABc|dcde fefg| a2g2f2e2| a2g2f2e2|dcBA GABc|defg a4:|
 
 X: 1
 T: Tippin' Back the Corn - A

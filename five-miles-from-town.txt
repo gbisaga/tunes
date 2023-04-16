@@ -1,0 +1,12 @@
+X:1
+T:Five Miles from Town - D
+C:Clyde Davenport
+L:1/8
+M:4/4
+R:Reel
+K:D
+A,B, |:"D" D2<D2 D2>D2|E2F2 ED B,2| A,B, DE D2D2|1,3 "A"FDE2 "D"D2 A,B,:|
+|2,4 FDE2 D4|"Bm"FAB2 B2>(A2|BA) FF ED B,2|"D"A,B, D2D2D2|"A"FDE2 "D"D2A2 :|
+|:"D"AB d2 (ef2)(a|[M:6/4] fe)df edB2 A2F2|[M:4/4]AB d2 (ef2)a|[M:6/4]fdef d2.f2.f2 z2|
+[M:4/4]AB d2 (ef2)(a|[M:6/4] fe)df (edB2) A2F2|[M:4/4]"Bm"A2<B2 B2>(A2|BA) FF ED B,2|
+"D"A,B, D2D2D2|1 "A"FDE2 "D"D2A2 :|2 "A"FDE2 "D"D2A,B, :|
