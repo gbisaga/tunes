@@ -34,6 +34,17 @@ K: A
 |:"A"E2c2 c4| cBAc BAFE| "D"F2d2 d4| fgaf ecBA|
 |:"A"ecea "D"fdfa| "E"gefg "A"a2eg| "A"agae "D"fgaf| "A"ecBA "E"B2cd|
 
+X: 1
+T: Billy In The Lowground
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+CA,|:"C"G,A,CD EGAB|cBcd cAGc|"Am"ABAG EGAB|cAGE DCCA,|
+"C"G,A,CD EGAB|cBcd cAGB|"Am"ABAG EGAB|"G"cAGE DC C2:|
+"C"eg2eg2 eg|afed cAG2|"Am"ea2ga2 eg|agab ag e2|
+"C"eg2eg2 eg|aged cAGB|"Am"ABAG EGAB|"G"cAGE "C"DC C2||
+
 X:1
 T:Booth Shot Lincoln - A (or G)
 L:1/8
@@ -125,8 +136,6 @@ K:D
 A,B, |:"D" D2<D2 D2>D2|E2F2 ED B,2| A,B, DE D2D2|1,3 "A"FDE2 "D"D2 A,B,:|
 |2,4 FDE2 D4|"Bm"FAB2 B2>(A2|BA) FF ED B,2|"D"A,B, D2D2D2|"A"FDE2 "D"D2A2 :|
 |:"D"AB d2 (ef2)(a|[M:6/4] fe)df edB2 A2F2|[M:4/4]AB d2 (ef2)a|[M:6/4]fdef d2.f2.f2 z2|
-[M:4/4]AB d2 (ef2)(a|[M:6/4] fe)df (edB2) A2F2|[M:4/4]"Bm"A2<B2 B2>(A2|BA) FF ED B,2|
-"D"A,B, D2D2D2|1 "A"FDE2 "D"D2A2 :|2 "A"FDE2 "D"D2A,B, :|
 
 X:1
 T:Forked Deer - D
@@ -313,7 +322,6 @@ K:A
 |:"A"efed cBAc | BAcA "D"F3F | "A"EFAB cBAB | cefc ecBA|
 |:"F#m"c4 A4 | "D"A4 (C2>B,2) | "A"A,2A2 EFAB |c2fc ecBA|
 
-
 X: 6
 T:Red Wing - G
 M:4/4
@@ -324,6 +332,21 @@ R:Key of G
 K:G
 D|:GG/2G/2GB|d3B|cege|d3B|cBAc|BAGB|
 ||:e2ee|egfe|d2B2|Bded|d2A2|Aded|d2B2|B2gf|
+
+X:1
+T:Roscoe
+S:Kyle Creed  (1912–1982, originally from Surry County, northwest North Carolina,
+S:and, from 1960 on, from Carroll County, Virginia)
+M:C|
+L:1/8
+D:Mountain LP 301, Kyle Creed - Blue Ridge Mountain Square Dance Time
+F:https://www.slippery-hill.com/recording/roscoe
+Z:Transcribed by Andrew Kuntz
+K:G
+ef|g2d2 edB2|dBAG- G2g2-|gagf eg3 |a3b a2ef|
+g2d2 ed B2|c3d cBA(_B|=B)(Bd)B AGFD|G3A G2:|
+|:DG-|G2G2 AB-B2|c3d cA_B-=B-|BAGB AGFE|D3E D2DG-|
+G2G2 A(B B2)|c3 d cA_B-=B-|BAGB AGFD|G3A G4:|]
 
 X:628
 T: Sadie at the Back Door - D
@@ -361,6 +384,18 @@ DF ||"D"F2F2 FEDE | FAAB A2DF | F2A2 BAFD | FED2 E3E |
 d2 d2 (3BdB AB | d2 d2 f4 | f3 a fede | f2 f2 e3 e |
 
 X: 1
+T: Salt Creek - Amix
+C: David Kaynor's version (composer unknown)
+R: reel
+M: C|
+L: 1/8
+K: Amix
+|: "A"A2AA A2AA | BABc "D"d4   | "G"BAG2 BAG2  | ABAF "Em"E4 |
+   "A"A2AA A2AA | BABc "D"d2ef | "G"gagf ecd^d | "Em"ecB2 "A"A4 :|
+|: "A"a2aa a2ba | c'aba e2ef | "G"gfga gfef  | gfga gf "Em"e2 |
+   "A"a2aa a2ba | c'aba e2ef | "G"gagf ecd^d | "Em"ecB2 "A"A4 :|
+
+X: 1
 T: Sarah Armstrong's reel - D
 M: C
 %D:1943
@@ -374,6 +409,19 @@ A,2- |\
 A,2D2 B,2D2 | A,2DE FED2 | E2A2 F2A2 | E2AB cBA2 |
 |:\
 d2dA dAF[DA] | E2E2 EFGA | B2Bc BAE2 | D2[D2d2] [Dd]ABc |
+
+X:1
+T:Seneca Square Dance
+S:Sam Long (Oklahoma)
+M:C|
+L:1/8
+Q:Quick
+D:County CD 3506, Sam Long - Echoes of the Ozarks (1995)  
+F:https://www.slippery-hill.com/recording/seneca-square-dance
+Z:Transcribed by Andrew Kuntz
+K:G
+G2A2|B2B4B2| d2B2 AG3|B4 B3d|BA3 G4|
+|:ef|g2{f}g4e2|d2B4ef|ggf2 g3a|b2e4g2-|
 
 X:2
 T:Ship in the Clouds - D
