@@ -24,17 +24,21 @@
 * Soldier's Joy
 * St. Anne's Reel
 * Up on Flat Top Mountain
+* West Fork Gals
 * Whiskey Before Breakfast
 
 ## G tunes
 * Big Scioty
 * Colored Aristocracy
+* Cuffy
 * Girl I Left Behind Me
 * Golden Slippers
 * Jaybird Died of the Whooping Cough
 * Josie-O
 * Magpie
+* Moon behind the Hill
 * Nail that Catfish (to a tree)
+* Old Time Billy in the Lowground
 * Red Wing
 * Roscoe
 * Seneca Square Dance
