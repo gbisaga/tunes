@@ -1,0 +1,256 @@
+% https://michaeleskin.com/abctools/abctools.html
+
+X:1
+T:Angeline the Baker - D
+M:4/4
+K:D
+|:"D"A2B2 d3A | B2 d4 dB | A2B2 "G"dABd| "A"A2>B2 A2dB |
+|: "D"a2f2 e2de | f2e2 d2fg | a2f2 e2d2 | "Bm"B3B B2fg |
+
+X: 1
+T: Ashokan Farewell - D
+M: 3/4
+L: 1/8
+R: waltz
+K: Dmaj
+Ac|:"D"d3c BA|"D/F#"F4 EF|"G"G3F ED|"Em"B,2D3B,|"D"A,2D2F2|
+"D"FG||:A3 FD2|"D7"d4A2|"G"B3cd2|"D"AF3E2|F3ED2|"Bm"B,4G,2|
+
+X:1
+T:Avalon Quickstep - D
+M:C|
+L:1/8
+S:Narmour & Smith (Mississippi)
+K:D
+|:ABAG FGA2|f2 d4 d2|ABAG FG A2|E6 F/G/|
+|:a2 fa- af a2|b4 a4|f2 d4 ef|gfed cB A2|b4 a4|
+
+X:2
+T:Camp Meeting on the Fourth of July
+R:March
+Z:Paul Gitlitz
+M:C
+L:1/8
+K:D
+DE|:"D"F2FF FEDF|AFBF AFDE|F2DF ABAF|"A"EDEF E2DE|
+|:"D"d2de "(Bm)"dcBA |"G"BABc "A"BAFA |"D"d3e "(Bm)"dcBA|"G"BABc "A"B2fe|
+
+X: 1
+T: Fisher's Hornpipe - D
+O: James Fishar 1778
+R: hornpipe, reel
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+|: "D"dAFD "G"GBAG | "D"FDFD "G"GBAG | "D"FDFD "A7(C)"GEGE |
+|: "A"ecAc egfe |"D"fdAd fagf |"A"ecAc efgf | "E7"edcB "A"A2A2 |
+
+X:1
+T:Five Miles from Town - D
+C:Clyde Davenport
+L:1/8
+M:4/4
+R:Reel
+K:D
+A,B, |:"D" D2<D2 D2>D2|E2F2 ED B,2| A,B, DE D2D2|1,3 "A"FDE2 "D"D2 A,B,:|
+|2,4 FDE2 D4|"Bm"FAB2 B2>(A2|BA) FF ED B,2|"D"A,B, D2D2D2|"A"FDE2 "D"D2A2 :|
+|:"D"AB d2 (ef2)(a|[M:6/4] fe)df edB2 A2F2|[M:4/4]AB d2 (ef2)a|[M:6/4]fdef d2.f2.f2 z2|
+
+X:1
+T:Forked Deer - D
+L:1/8
+M:C|
+K:D
+|: "D"defg a2fa | "G"g2gb agfe | "D"defg a2fa | "A"gfed cABc | 
+|: "A"A2A2c4 | ABAF E2 EF | A2AB c2cA | "D"BAFE FD3 |
+
+X: 1
+T: Johnny, Don't Get Drunk
+M: C|
+L: 1/8
+R: reel
+S: Roaring Jelly collection
+Z: 2010 John Chambers <jc:trillian.mit.edu>
+F:http://jc.tzo.net/~jc/music/abc/reel/JohnnyDontGetDrunk1_D.abc	
+K: D
+|: "D"fefg a2g2 | "A7"fdec "D"d4 | "G"BABc dBAG | "A7"F2E2 E4 | 
+|: "D"F2A2 A4 | FA2F A4 | "G"BABc dBAG | "A7"F2E2 E4 |  
+
+X: 1
+T: Julianne Johnson - D
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|"D"fedf edBA|Bd de d2de|f2 a2 aab2|"A" a8|
+|:"G" BABc d3A|BABc d3 A|BABd ed d2|"D"A6 A2|
+
+X:1
+T:Liberty Two-Step - D
+M:2/4
+L:1/8
+K:D
+"D"fAfA|f/g/f/e/ d/e/f/a/|"G"gBgB|g/a/g/f/ e/d/B/e/|
+|:"D"AA/B/ A/G/F/E/|D/F/A/d/ fd|A>B/2c/2 d>F|"A"[EA]>F [EA][EA]|
+
+X:1
+T:Little Pine Siskin - D
+L:1/8
+M:4/4
+R:Reel
+K:D
+A,B,|: "D"D2DE FEDF|"A"E2EEE2DE| "D"FABc d2c2|"G"B2BBB2BB|
+|: "G"B4 d4|BAF2 "A"A4| "G"B2d2BAF2| "A"A6 A2|
+|: "Em"E4 E2>F2| EDB,2 "A"A,2>D2| "Em"E2EF ED B,2| "A"A,4 A,B,D2| 
+
+X:1
+T:Martha Campbell - D
+L:1/8
+M:2/2
+S:From a transcription of Buddy Thomas by Jeff Titon
+K:D
+DEFA BFAF|DEFA BFAF|DEFA B2A2|[C2A2][B,2G2][A,4E4]|
+DEFA BFAF|DEFA BdBd|ABde fgfe|dBAG F(D D2):|
+|:Bcdd fdfd|efde fdfd|ABde f2d2|fedf edBd|
+ABde fdfd|efde fdfg|abag fgfe|dBAG F(D D2):|
+
+X: 1
+T: Mississippi Sawyer - D
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fg|:"D" a2 af a2 af|af a2 b2 a2|"G" g2 ef g2 ef|gf g2 a2 g2|
+|:"D" d2 fe d2 fe|de fg a4|"A" e2 c2 A2 c2|AB cd ef ec|
+
+X: 1
+T: New Five Cents - D
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+FG|:"D" A2 f2 fgfe|"G" d2 B2 BcdB|"D" A2 F2 fafd|"A" e2 ee e2 FG|
+dB|:"D" A2 F2 F2 dB|A2 F2 F2 dB|A2 D2 DEFD|"A" E2 EE E2 dB|
+
+X: 1
+T: Ragtime Annie - D
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:DFAF B2AF|DFAF B2AF|DFDF B2AF|Ac2A c2B2|
+|:a2ab afdB|A2A2 A2fg|a2a2 g2f2|B6 ef|
+K:G
+|:B2B2 BGAB|cBcd c2de|f2f2 fdef|gfga g2GA|
+
+X:628
+T: Sadie at the Back Door - D
+C: Jere Canote 
+N:(revised by C. Maher from Perpetual e-Motion CD)
+M: C|
+L: 1/8
+K: D
+|: "D"a2g2 f2<e2 |d3e d2fg | a2g2 fed2|"C"=c3d c2e2 |\
+"D"a2g2 fed2 |"C"=c4B4 | "C"=c2Bc BAFE| "D"D8 :|
+|: "D"F2FE D4 |FGFE D4 | "C"=c2B2 ABAF |"D"D3E D4 |\
+ "D"F2FE D4 |"C"=c4B4 |1 "C"=c2Bc BAFE| "D"D8:|2 "C" f3d BAFE|"D"D8 |]
+
+X: 1
+T: Sal's Got Mud Between Her Toes - D
+R: reel
+M: 4/4
+L: 1/8
+Z: Contributed 2017-11-26 01:20:55 by Terry Terry_cowan@hotmail.com
+K: Dmaj
+A,B, ||\
+"D"D2 D2 (3B,DB, A,B, | D2 D2 F3F |FEDF EDB,A, |DEDB, A,2 A,B,
+DF ||"D"F2F2 FEDE | FAAB A2DF | F2A2 BAFD | FED2 E3E |
+|: "D"AB |\
+d2 d2 (3BdB AB | d2 d2 f4 | f3 a fede | f2 f2 e3 e |
+
+X: 1
+T: Sarah Armstrong's reel - D
+M: C
+%D:1943
+L: 1/8
+B: Bayard--Hill Country Tunes, No. 33 ("Old Reel")
+S: Mrs. Sarah Armstrong, near Derry, Pa., Nov. 1943
+S: https://tunearch.org/wiki/Sarah_Armstrong 2021-9-6
+S Shana Aisenberg: Fiddle Hell Online jam 2020-7-22
+K: D
+A,2- |\
+A,2D2 B,2D2 | A,2DE FED2 | E2A2 F2A2 | E2AB cBA2 |
+|:\
+d2dA dAF[DA] | E2E2 EFGA | B2Bc BAE2 | D2[D2d2] [Dd]ABc |
+
+X:2
+T:Ship in the Clouds - D
+M:C|
+L:1/8
+R:Reel
+N:From a transcription by John Lamancusa, by permission http://www.mne.psu.edu/lamancusa/tunes.htm
+Z:AK/Fiddler's Companion
+K:D
+fg||a2 fg a2 ab|agfe d2 a(b|b)aga b2b2|agfe d2 f(a|a2) a2 a3 b|
+agfe d3(d |: d)ed=c Bc d2|g4 g2 AB|=cBcA B2A2|GFGA B=cdB|
+AGFE D2 e(f|f)e f2 e(c [c2e2])|1 [d3f3] (d[d3f3]) (d:|2 [d3f3] d [d4f4]||
+
+X:1
+T:Soldier's Joy - D
+M:4/4
+L:1/8
+K:D
+|:"D"AF DF AF DF|A2 d2 d2 cB|AF DF AF DF|"A7"G2 E2 E2 FG
+|:"D"f2 fg a2 f2|"A"e2 ef g2 e2|"D"f2 fg a2 f2|"A"ed cB A4
+
+X: 139
+T: St. Anne's Reel - D
+R: reel
+Z: 2012 John Chambers <jc:trillian.mit.edu>
+B: NEFR #139
+M: C|
+L: 1/8
+K: D
+|:"D"f2 fg fe dB | A2 FA A2 FA | "G"B2 GB B2 GB | "D"AB AG FA de |
+|: ag |\
+"D"fd fa fd fa | "Em"ag gf g2 gf | "A7"ed cB AB ce | "D"ba a^g a2 a=g |
+
+X: 1
+T: Up on Flat Top Mountain - D
+M: 4/4
+L: 1/8
+R: Old Time
+C: Al Petteway
+K: D
+d2|:"D"f2a2a2aa|fe3d2de|f2fa fed2|"G"B6b2|
+"D"a2f2f(ee2)|fde(dd2)|ef3edBA|1 d6d2:|2 d2d2BAF2||
+|:"Em"E4"D/F#"[F4A4]|"G"[G8B8]|"D"f2f2edBA|d2f2edBA|
+"Em"E4"D/F#"[F4A4]|"G"[G8B8]|"D"f2f2edBA|1 d4efd2:|2 d4z2d2||
+
+X:846
+T:Whiskey Before Breakfast - D
+S:Karl Moore - Peach Bottom String Band
+Z:Converted from Nottingham Database format by Philip Rowe
+F:http://abc.musicaviva.com/tunes/canada/whisky-before/whisky-before-1.abc
+%Posted Oct 16th 1999 at abcusers by Philip Rowe in reply to a request from Rod
+%Smith for "old time tunes". See "Done Gone" for more information.
+M:4/4
+L:1/4
+K:D
+F/E/|:"D"D/E/F/G/AA|"D"A/B/A/G/ F/E/D|\
+"G"[GB][G/B/][G/B/]"D"[FA][FA]|"A"E/F/E/D/ C/B,/A,|
+|:"D"D/F/A/c/dd-|d/B/A/G/ F/E/D/F/|"Em"G/B/ee3/f/|
+
+
+X: 1
+T: Billy In The Lowground - C
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+CA,|:"C"G,A,CD EGAB|cBcd cAGc|"Am"ABAG EGAB|cAGE DCCA,|
+"C"G,A,CD EGAB|cBcd cAGB|"Am"ABAG EGAB|"G"cAGE DC C2:|
+"C"eg2eg2 eg|afed cAG2|"Am"ea2ga2 eg|agab ag e2|
+"C"eg2eg2 eg|aged cAGB|"Am"ABAG EGAB|"G"cAGE "C"DC C2||
+

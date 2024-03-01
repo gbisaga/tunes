@@ -1,0 +1,10 @@
+X: 1
+T: Tippin' Back the Corn - A
+R: reel
+M: C|
+L: 1/8
+K: A
+(3efg |"A"a2g2 f2e2 | [cE]3(E [cE]2)Bc- | cBcd cBAG| "D"[FA,]3 (A,[FA,]2) (3ABc |
+d2c2 B2A2 | "E"[BE]3(E [EB]2)AB- | BABc BAFE |"A" [AA,]3 (A,[AA,]2) :|
+|: CB,|"A"A,2A,A, A,F3 | [A,E]3F [EA,]4| A2AA Af3 | [eA]3f [Ae]2 ef- |
+"D"fef=g fedc | "E"BcBA F2AB- | BABc BAFE | "A"[AA,]3 (A,[AA,]2) :|
