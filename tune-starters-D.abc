@@ -144,6 +144,21 @@ K: Dmaj
 K:G
 |:B2B2 BGAB|cBcd c2de|f2f2 fdef|gfga g2GA|
 
+X:1
+T:Rose in the Mountain
+M:2/4
+L:1/8
+R:Reel
+N:Transcribed by John Hartford from the playing of Ky. fiddler 
+N:John Salyer, via Bruce Molsky.
+B:Stephen F. Davis - Devil's Box, vol. 33, No. 3, Fall 1999 (p. 52)
+Z:AK/Fiddler's Companion
+K:D
+DD/F/ Ad|A/B/A/F/ DA,|DF/G/ A/B/d/e/|fd e2|
+DD/F/ A/B/d/e/|f/g/f/e/ dA|B/c/d/c/ B/A/F/G/|AA, D:|
+e/g/||fd e/de/|fd e>g|fd e/de/|fd e2|e/f/g/e/ fd|
+A/B/d/e/ f/g/f/e/|dA B/c/d/c/|B/A/F/G/ AA,|D3||
+
 X:628
 T: Sadie at the Back Door - D
 C: Jere Canote 
@@ -215,6 +230,16 @@ K: D
 |:"D"f2 fg fe dB | A2 FA A2 FA | "G"B2 GB B2 GB | "D"AB AG FA de |
 |: ag |\
 "D"fd fa fd fa | "Em"ag gf g2 gf | "A7"ed cB AB ce | "D"ba a^g a2 a=g |
+
+X: 1
+T:Step Around Johnny
+M:C
+L:1/8
+K:D
+|:"D" d2d2  "G"BcdB|"D" AGFED2 (3ABc|d2d2Bd3|f3e dgfe|
+"D"d2d2 "G"BcdB|"D"AGFE D2D2|"A"EDEF GFEF|"D"D3ED2E2:|
+|:"D"F3EF2A2-|AGFE D2D2|"G"B3AB2A2-|"D"AGFED2E2|
+F3EF2A2-|AGFED2D2|"A"EDEF GFEF|"D"D3ED2:|
 
 X: 1
 T: Up on Flat Top Mountain - D

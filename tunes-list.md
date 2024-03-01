@@ -16,6 +16,7 @@
 * Mississippi Sawyer
 * New Five Cents
 * Ragtime Annie
+* Rose in the Mountain
 * Sadie at the Back Door
 * Sal's Got Mud Between Her Toes
 * Sarah Armstrong
@@ -23,6 +24,7 @@
 * Shove that Pig's Foot
 * Soldier's Joy
 * St. Anne's Reel
+* Step Around Johnny
 * Up on Flat Top Mountain
 * West Fork Gals
 * Whiskey Before Breakfast
