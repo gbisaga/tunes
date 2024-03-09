@@ -15,23 +15,25 @@
 * Martha Campbell
 * Mississippi Sawyer
 * New Five Cents
+* Porter's Reel
 * Ragtime Annie
 * Rose in the Mountain
 * Sadie at the Back Door
 * Sal's Got Mud Between Her Toes
 * Sarah Armstrong
 * Ship in the Clouds
-* Shove that Pig's Foot
 * Soldier's Joy
 * St. Anne's Reel
 * Step Around Johnny
 * Up on Flat Top Mountain
+* Waiting for the Boatsman
 * West Fork Gals
 * Whiskey Before Breakfast
 
 ## G tunes
 * Big Scioty
 * Colored Aristocracy
+* Crockett's Honeymoon
 * Cuffy
 * Girl I Left Behind Me
 * Golden Slippers
@@ -44,6 +46,7 @@
 * Red Wing
 * Roscoe
 * Seneca Square Dance
+* Shove that Pig's Foot
 * Turkey in the Straw
 * Whiteface
 

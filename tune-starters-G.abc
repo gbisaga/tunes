@@ -21,6 +21,27 @@ K:G
 (3DEF|:"G"G2GG E2D2|G2GG G2GA|"Em/maj"B2d2 BAG2|E2EE E2z2|"C"e2ef gfe2|
 |:"G"g2ff e2d2|"Em"e2ee e2e2-|"C"e2eg e2dB|"Em"B2BB B2z2|"C"edef gfe2|
 
+X:1
+T:Crockett's Honeymoon
+N:From the playing of fiddlers John Crockett Sr. and son 
+N:George playing with Crockett Family Mountaineers.
+N:The tune was the middle of a medley, with "Old Molly Hare,"
+N: "Wild Horse," "Soldier's Joy" and "Arkansas Traveler'," recorded 
+N:in Los Angeles, Nov. 1928, as "Medley of Old-Time Dance Tunes Part I." 
+M:C|
+L:1/8
+R:Reel
+D:Brunswick 291 (78 RPM). Crockett Family Mountaineers (1928)
+D:Yazoo 2200, Crockett's Kentucky Mountaineers - Kentucky 
+D:Mountain Music, vol. 3 (2003)
+D:https://www.slippery-hill.com/recording/crocketts-honeymoon
+Z:Transcribed by Andrew Kuntz
+K:G
+dc|BA G2GDGA|Bdef gedc|BA G2  GDGA|BcdB A2dc|
+BAGD GDGA|Bdef g3a|bbaa gded|1BcdB A2:|2BcdB G4||
+|:[de]-[e2e2]f [e2e2]de-|edef gedB|G2[G2B2] BGBG|BGeg e2e2|
+[de]-[e2e2]f [e2e2]d2|edef g2ga|bbaa gded|BGAF G4:|]
+
 X:2
 T:Cuffy
 L:1/8
@@ -45,6 +66,23 @@ K: G
 g/f/ \
 |: "G"ed/c/ BA | "C"BG E>F | "G"GG G/A/B/c/ | "D7"d2 Bg/f/ |
 |: "G"Bd "D7"ef | "G"gd "D7"B>A | "G"Bd "Em"ef | "C"g2 "D7"fg/f/ 
+
+X:1
+T:Flowers of Edinburgh
+N:From the playing of fiddler Art Galbraith (1909-1993, Springfield, Mo., though 
+N:originally from Greene County, Mo., Ozarks region).
+M:C|
+L:1/8
+R:Reel
+Q:"Old Time"
+D:https://www.slippery-hill.com/recording/flowers-edinburgh
+D:Rounder 0133, Art Galbraith - "Dixie Blossoms" (1981)
+Z:Transcribed by Andrew Kuntz
+K:G
+ef|"*"gfga b2 ag|fefg a2ad-|e2ef gfed|B2 eBe2 ef-|
+g2e2 dBGA|Bd2e d2 ef|[M:3/2]gfef gage dBGB |[M:C|]A2 Ad B2F2|1G6:|2G8||
+G3D EDB,D|G2G2 BABd|BAGD F2E2|[M:3/2]DEFD A4A,4| 
+[M:C|]EDEF G4| BABc d2ef|gage dBGB|A2 Ad B2F2|1G8:|2G6||
 
 X: 1
 T: Golden Slippers - G
